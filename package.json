@@ -1,0 +1,41 @@
+{
+  "name": "react-4798tj",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.6",
+    "@react-pdf/renderer": "^3.1.12",
+    "bootstrap": "^5.3.0",
+    "html2canvas": "1.0.0-alpha.12",
+    "html2pdf.js": "^0.10.1",
+    "jspdf": "1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-pdf": "^7.1.2",
+    "react-pdf-html": "^1.1.18",
+    "react-to-print": "^2.14.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
